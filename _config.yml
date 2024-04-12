@@ -1,10 +1,9 @@
 title: Adriano Wanderlingh # your name (or website title) here
-logo: "/images/logo.png?raw=true&size=50%" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>
   As a data analyst with a PhD in biostatistics, I excel at uncovering valuable insights from a large variety of data sources. I leverage R, Python, SQL, and Tableau to deliver data-driven solutions tailored to my clients' needs.
   <br><br>
-  <b>Why Choose Me?<b><br>
   🛠️ Proficient in data cleaning, statistical modeling, machine learning, and network analysis.<br>
   💡 Skilled in handling large, complex datasets with a creative problem-solving approach.<br>
   📈 Adept at transforming raw data into actionable intelligence and insightful visualizations.<br>
