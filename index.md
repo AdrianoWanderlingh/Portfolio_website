@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My projects
 
 [Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
 <img src="images/Tool_overview_behavioural.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### projects list
+### Projects list
 
 - [Development of an analytical suite for the detection of ant behaviours](http://example.com/)
 - [Project 2 Title](http://example.com/)

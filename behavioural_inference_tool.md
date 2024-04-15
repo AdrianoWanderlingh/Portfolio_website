@@ -72,4 +72,4 @@ This project highlights the potential of machine learning in transforming behavi
 
 ## Repository Link
 
-All project codes and datasets are available in my [GitHub repository](https://github.com/AdrianoWanderlingh).
+All project codes and datasets are available in my [GitHub repository](https://github.com/AdrianoWanderlingh/Ant_Tracking/tree/main/Scripts/PhD-Ant_Colonies_Tracking_Analysis/Automated_Behavioural_Inference).
