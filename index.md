@@ -4,8 +4,8 @@
 
 ## My projects
 
-[### Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
-<img src="images/Tool_overview_behavioural.png?raw=true"/>
+[Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
+<img src="images/Tool_overview_behavioural.png?raw=true"  width="600" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
