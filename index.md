@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
+<img src="images/Tool_overview_behavioural.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### projects list
 
-- [Project 1 Title](http://example.com/)
+- [Development of an analytical suite for the detection of ant behaviours](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
