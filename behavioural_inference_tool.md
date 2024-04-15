@@ -5,7 +5,7 @@ Social insects like ants utilize complex behavioral strategies to manage disease
 This project demonstrates the application of data science techniques in behavioral ecology, specifically using supervised classifiers and techniques for dealing with imbalanced data.
 
 <p>
-    <img src="images/beh_inf_tool_scheme.png?raw=true" alt="Overview of the Behavioural Inference Tool">
+    <img src="images/beh_inf_tool_scheme.png?raw=true" alt="Overview of the Behavioural Inference Tool" >
     <em>Overview of the Behavioural Inference Tool</em>
 </p>
 
@@ -25,7 +25,7 @@ Physical interactions were defined using geometric parameters to capture the seq
 </p>
 
 <p>
-    <img src="images/grooming_interactions_plot.jpg?raw=true" alt="Visualization of ant allogrooming interactions">
+    <img src="images/grooming_interactions_plot.jpg?raw=true" alt="Visualization of ant allogrooming interactions" width="75%">
     <em>The trajectories of the actors (in blue) are the receivers (in red) during three example allogrooming interactions, from which the  summary statistics were calculated.</em>
 </p>
 
@@ -50,7 +50,7 @@ This work resulted in the creation of a comprehensive suite of scripts and funct
 Out of the 4209 trained models, the Random Forest model, balanced with the Synthetic Minority Over-sampling Technique (SMOTE), provided the best performance. It demonstrated strong precision and sensitivity in identifying allogrooming behaviors from the tracking data.
 
 <p>
-    <img src="images/precision_sensitivity_scores.png?raw=true" alt="Precision and Sensitivity of Various Models">
+    <img src="images/precision_sensitivity_scores.png?raw=true" alt="Precision and Sensitivity of Various Models" width="75%">
     <em>Precision and Sensitivity of Various Models</em>
 </p>
 

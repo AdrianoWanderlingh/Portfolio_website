@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### My projects
+## My projects
 
-[Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
+[### Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
 <img src="images/Tool_overview_behavioural.png?raw=true"/>
 
 ---
