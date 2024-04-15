@@ -69,7 +69,7 @@ The selected model was then tested on unseen data, where it continued to accurat
 | Precision   | 82.1%  |
 
 <p>
-    <img src="images/OOB_plot.png?raw=true" alt="Out-of-Bag Error Plot">
+    <img src="images/OOB_plot.png?raw=true" alt="Out-of-Bag Error Plot"  width="75%">
     <br>
     <em>Out-of-Bag (OOB) error plot for the random forest model showing the error rates for grooming and non-grooming classes over iterations.</em>
 </p>

@@ -4,15 +4,16 @@
 
 ## My projects
 
-[Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
-<img src="images/Tool_overview_behavioural.png?raw=true"  width="600" />
+### [Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)<br>
+ <!--- <img src="images/Tool_overview_behavioural.png?raw=true"  width="600" /> --->
+<a href="/behavioural_inference_tool"><img src="images/Tool_overview_behavioural.png?raw=true"  width="600"/></a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Project 2 Title](/pdf/sample_presentation.pdf)<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### [Project 3 Title](http://example.com/)<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
