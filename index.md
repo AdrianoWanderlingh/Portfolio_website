@@ -9,22 +9,15 @@
 <a href="/behavioural_inference_tool"><img src="images/Tool_overview_behavioural.png?raw=true"  width="600"/></a>
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### [Project 3 Title](http://example.com/)<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Building a Robust qPCR Data Processing Pipeline](/qpcr_pipeline)<br>
+<a href="/qpcr_pipeline"><img src="images/immune_pipeline.png?raw=true"  width="600"/></a>
 
 ---
 
 ### Projects list
 
-- [Development of an analytical suite for the detection of ant behaviours](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Development of an analytical suite for the detection of ant behaviours](/behavioural_inference_tool)
+- [Building a Robust qPCR Data Processing Pipeline](/qpcr_pipeline)
 
 ---
 
