@@ -53,7 +53,6 @@ _Category attributed by the pre-processing pipeline, determining how to treat ea
 - **Quantile Regression Imputation for Left-Censored Data (QRILC)**: Estimates the upper boundary of missing data using quantile regression, suitable for left-censored data where measurements fall below detection limits.
 - **Half-Minimum Method (HM)**: Assigns the median of observed minimal values to missing data.
 
-#### checking the Imputation Reliability
 The effectiveness of the imputation methods was validated by conducting an in-depth comparison between several truncated and then re-imputed versions of the _defensin_ dataset  and the original full dataset itself. the _defensin_ gene was selected as it was the only that did not require imputation. 15 truncated-imputed datasets were simulated via logistic regression to mimic various missing data scenarios, with increasing proportions of missing data and performing imputation with the above mentioned techniques. The comparison highlights the superior performance of the HM method in maintaining the directionality and consistency of effects (negative effect sizes) and significance levels (non significance) observed in the original dataset (marked by the blue x), as shown in the plot below.
 
 <p>
