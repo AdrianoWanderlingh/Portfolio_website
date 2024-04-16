@@ -44,6 +44,7 @@ The pre-processing of the data allows the categorisation of the samples into gro
 | **Impute (>DT)**         | 0          | 2               | 1      |
 | **Impute (>LOD-T.E.)**   | 0          | 169             | 115    |
 | **Impute (2NA)**         | 0          | 231             | 133    |
+
 _Category attributed by the pre-processing pipeline, determining how to treat each sample before statistical analysis._
 <br>
 
