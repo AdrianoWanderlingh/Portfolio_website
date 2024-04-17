@@ -78,4 +78,6 @@ This project highlights the potential of machine learning in transforming behavi
 
 ## Repository Link
 
-All project codes and datasets are available in my [GitHub repository](https://github.com/AdrianoWanderlingh/Ant_Tracking/tree/main/Scripts/PhD-Ant_Colonies_Tracking_Analysis/Automated_Behavioural_Inference).
+All project scripts are available in my [GitHub repository](https://github.com/AdrianoWanderlingh/Ant_Tracking/tree/main/Scripts/PhD-Ant_Colonies_Tracking_Analysis/Automated_Behavioural_Inference).
+
+More detail on the presented work can be found in my [PhD thesis](https://research-information.bris.ac.uk/en/studentTheses/effects-of-group-size-on-disease-transmission-risk-and-immune-str.)
