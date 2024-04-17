@@ -88,6 +88,6 @@ This project addresses the pervasive issue of MNAR data in high-throughput qPCR 
 - McCall, M. N., McMurray, H. R., Land, H., & Almudevar, A. (2014). On non-detects in qPCR data. Bioinformatics, 30(16), 2310–2316. https://doi.org/10.1093/BIOINFORMATICS/BTU239
 
 ## Repository Link
-All project scripts are available in my [GitHub repository](https://github.com/AdrianoWanderlingh/Ant_Tracking/tree/main/Scripts/PhD-Ant_Colonies_Tracking_Analysis/molecular_bio_analysis).
+All project scripts are available in my [GitHub repository](https://github.com/AdrianoWanderlingh/Ant_Tracking/tree/main/Scripts/PhD-Ant_Colonies_Tracking_Analysis/molecular_bio_analysis){:target="_blank"}.
 
-More detail on the presented work can be found in my [PhD thesis](https://research-information.bris.ac.uk/en/studentTheses/effects-of-group-size-on-disease-transmission-risk-and-immune-str).
+More detail on the presented work can be found in my [PhD thesis](https://research-information.bris.ac.uk/en/studentTheses/effects-of-group-size-on-disease-transmission-risk-and-immune-str){:target="_blank"}.
